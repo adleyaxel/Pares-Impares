@@ -1,0 +1,15 @@
+C:\Users\adley\U.creativa-programacion\Par-Impar\bin\Debug\net6.0\Par-Impar.exe
+C:\Users\adley\U.creativa-programacion\Par-Impar\bin\Debug\net6.0\Par-Impar.deps.json
+C:\Users\adley\U.creativa-programacion\Par-Impar\bin\Debug\net6.0\Par-Impar.runtimeconfig.json
+C:\Users\adley\U.creativa-programacion\Par-Impar\bin\Debug\net6.0\Par-Impar.dll
+C:\Users\adley\U.creativa-programacion\Par-Impar\bin\Debug\net6.0\Par-Impar.pdb
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.csproj.AssemblyReference.cache
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.AssemblyInfoInputs.cache
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.AssemblyInfo.cs
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.csproj.CoreCompileInputs.cache
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.dll
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\refint\Par-Impar.dll
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.pdb
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\Par-Impar.genruntimeconfig.cache
+C:\Users\adley\U.creativa-programacion\Par-Impar\obj\Debug\net6.0\ref\Par-Impar.dll
